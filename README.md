@@ -1,6 +1,6 @@
 👋 Hi there, I’m Julia.
 
-🌱 I’m currently learning HTML, CSS, Javascript and React.
+🌱 I’m a front-end React/Javascript developer currently learning full stack development with Python and Node.js.
 
 You can reach me at julialacerda@protonmail.com or julialacerdaff@gmail.com
 
